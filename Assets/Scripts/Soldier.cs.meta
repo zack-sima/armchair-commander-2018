@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d67a0ccb355ae4b26b0536eb7cf5b4b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageDisplayPrefab: {fileID: 1497985751995948, guid: c9d7fbb22b459456892e6dfc52629006,
+      type: 2}
+  - landingCraft: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - countryFlagImage: {instanceID: 0}
+  - currentTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

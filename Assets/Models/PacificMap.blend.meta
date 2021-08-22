@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 4f866328f2d54421b8a6cd8505460b94
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Asia
+    100002: Aussie
+    100004: Australia
+    100006: Border
+    100008: Hainan
+    100010: Indo
+    100012: Indo_001
+    100014: Indo_002
+    100016: Indy
+    100018: Japan
+    100020: Japan_001
+    100022: Japan_002
+    100024: Japan_003
+    100026: //RootNode
+    100028: Papa
+    100030: Philippines
+    100032: Taiwan
+    100034: Zealand
+    400000: Asia
+    400002: Aussie
+    400004: Australia
+    400006: Border
+    400008: Hainan
+    400010: Indo
+    400012: Indo_001
+    400014: Indo_002
+    400016: Indy
+    400018: Japan
+    400020: Japan_001
+    400022: Japan_002
+    400024: Japan_003
+    400026: //RootNode
+    400028: Papa
+    400030: Philippines
+    400032: Taiwan
+    400034: Zealand
+    2100000: unnamed
+    2300000: Asia
+    2300002: Aussie
+    2300004: Australia
+    2300006: Border
+    2300008: Hainan
+    2300010: Indo
+    2300012: Indo_001
+    2300014: Indo_002
+    2300016: Indy
+    2300018: Japan
+    2300020: Japan_001
+    2300022: Japan_002
+    2300024: Japan_003
+    2300026: Papa
+    2300028: Philippines
+    2300030: Taiwan
+    2300032: Zealand
+    3300000: Asia
+    3300002: Aussie
+    3300004: Australia
+    3300006: Border
+    3300008: Hainan
+    3300010: Indo
+    3300012: Indo_001
+    3300014: Indo_002
+    3300016: Indy
+    3300018: Japan
+    3300020: Japan_001
+    3300022: Japan_002
+    3300024: Japan_003
+    3300026: Papa
+    3300028: Philippines
+    3300030: Taiwan
+    3300032: Zealand
+    4300000: Border
+    4300002: Papa
+    4300004: Zealand
+    4300006: Australia
+    4300008: Aussie
+    4300010: Indo
+    4300012: Indo_001
+    4300014: Indo_002
+    4300016: Philippines
+    4300018: Indy
+    4300020: Japan_003
+    4300022: Japan
+    4300024: Japan_002
+    4300026: Japan_001
+    4300028: Hainan
+    4300030: Taiwan
+    4300032: Asia
+    6400000: Asia
+    6400002: Aussie
+    6400004: Australia
+    6400006: Border
+    6400008: Hainan
+    6400010: Indo
+    6400012: Indo_001
+    6400014: Indo_002
+    6400016: Indy
+    6400018: Japan
+    6400020: Japan_001
+    6400022: Japan_002
+    6400024: Japan_003
+    6400026: Papa
+    6400028: Philippines
+    6400030: Taiwan
+    6400032: Zealand
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
